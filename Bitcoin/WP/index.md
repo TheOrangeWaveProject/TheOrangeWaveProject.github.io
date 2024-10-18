@@ -1,4 +1,4 @@
-# Whitepaper 📃
+# ⚠️ Whitepaper 📃
 
 Pubblicato il 31 agosto 2008 da Satoshi Nakamoto (Pseudonimo)
 
