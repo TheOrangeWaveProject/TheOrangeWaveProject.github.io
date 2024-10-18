@@ -28,6 +28,6 @@ più utile per lo scopo senza favi perdere tempo con cose poco utili o forvianti
 | Altri OS interessanti     |  | ----                      |  | Podcast                    |
 | MicroG                    |  | ----                      |  | Istruzione                 |
 | ----                      |  | ----                      |  | Glossario                  |
-
+|===========================|  |===========================|  |============================|
 
 |[GrafeneOS](https://grapheneos.org/)|
