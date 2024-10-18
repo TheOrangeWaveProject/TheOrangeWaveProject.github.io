@@ -1,4 +1,4 @@
-# The Orange Wave Project 
+# 🌊 The Orange Wave Project 🌊
 
 ## Strumenti per la sovranità economica e digitale.
 Per utilizzare al meglio Bitcoin dobbiamo non solo conoscerlo, studiarlo, capirlo, ma anche utilizzarlo in maniera idonea con l’hardware e il software appropriato.
