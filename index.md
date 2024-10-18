@@ -12,7 +12,6 @@ più utile per lo scopo senza favi perdere tempo con cose poco utili o forvianti
 | Podcast                   |  | Podcast                   |  | Podcast                   |
 | Istruzione                |  | Istruzione                |  | Istruzione                |
 | Glossario                 |  | Glossario                 |  | Glossario                 |
-|===========================|  |===========================|  |===========================|
 | Come installare un nodo   |  | TOR - VPN - Tails         |  | Come installare una distro|
 | Wallet                    |  | Browser e plug-in         |  | Comandi Base              |
 | Utilità                   |  | PGP / GPG e alias mail    |  | Migliori apps             |
