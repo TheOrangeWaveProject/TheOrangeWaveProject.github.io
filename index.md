@@ -9,6 +9,7 @@ Anche voi vi domanderete dove informarsi correttamente su questi temi che oramai
 Senza dover riscoprire il fuoco, attingendo dal molto materiale di buona qualità che si trova in rete si propone un percorso con diverse tappe per costruire una struttura di informazioni che vi faranno da base solida per il futuro che verrà.
 
 ## ⚠️ Stiamo lavorando per voi 🛠️
+ 
 
 |         *Bitcoin*         |  |    *Privacy & Sicurity*   |  |     *Linux e dintorni*     |
 |---------------------------|--|---------------------------|--|----------------------------|
@@ -25,7 +26,7 @@ Senza dover riscoprire il fuoco, attingendo dal molto materiale di buona qualit�
 | Eventi                    |  | GitHub-GitLab-Codeberg    |  | Curiosità                  |
 | Curiosità                 |  | GitTea-Googs              |  | Markdown                   |
 
-
+ 
 
 |    *Degoogolizzazione*    |  |     *Router e network*    |  |*Economia e i suoi principi*|
 |---------------------------|--|---------------------------|--|----------------------------|
