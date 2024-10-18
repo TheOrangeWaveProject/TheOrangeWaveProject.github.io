@@ -5,7 +5,7 @@ Per utilizzare al meglio Bitcoin dobbiamo non solo conoscerlo, studiarlo capirlo
 più utile per lo scopo senza favi perdere tempo con cose poco utili o forvianti, almeno a mio parere… (chiunque può inviarmi segnalazoni, migliorie, errori, curiosità, approfondimenti per rendere questo spazio fruibile in maniero ottimale per tutti)
 
 |         *Bitcoin*         |  |    *Privacy & Sicurity*   |  |    *Linux e dintorni*     |
-|---------------------------|  |---------------------------|  |---------------------------|
+|---------------------------|--|---------------------------|--|---------------------------|
 | Whitepaper                |  | Chypher manifesto         |  | Storia e distro           |
 | Libri                     |  | Libri                     |  | Libri                     |
 | Video                     |  | Video                     |  | Video                     |
