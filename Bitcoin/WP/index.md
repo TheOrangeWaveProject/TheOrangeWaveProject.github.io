@@ -13,20 +13,20 @@ Il mercato immobiliare cominciò a collassare e i capitali investiti vennero pre
 
 Questo documento sepur tecnico, rappresenta la versione più basica dell'intelaiatura del sistema Bitcoin essendone ancora oggi le sue fondamente. Vedremo capitolo per capitolo ogni sezione cercando di far emergere i significati più importanti e caratterizzanti del sistema Bitcoin portando alla luce tutta la genialità  racchiusa al suo interno.
 
-0.Abstract
-1.Introduzione
-2.Le Transazioni
-3.Server di marcatura temporale
-4.Proof-of-work
-5.La Rete
-6.L’incentivo
-7.Rivendicare Spazio sul Disco
-8.Verifica semplificata dei pagamenti
-9.Aggregare e suddividere valore
-10.Privacy
-11.Calcoli
-12.Conclusione
-Riferimenti
+0. Abstract
+1. Introduzione
+2. Le Transazioni
+3. Server di marcatura temporale
+4. Proof-of-work
+5. La Rete
+6. L’incentivo
+7. Rivendicare Spazio sul Disco
+8. Verifica semplificata dei pagamenti
+9. Aggregare e suddividere valore
+10. Privacy
+11. Calcoli
+12. Conclusione
+13. Riferimenti
   
 
 *Fonti e approfondimenti:*
