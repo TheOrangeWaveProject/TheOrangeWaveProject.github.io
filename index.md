@@ -21,13 +21,13 @@ più utile per lo scopo senza favi perdere tempo con cose poco utili o forvianti
 
 
 |    *Degoogolizzazione*    |  |     *Router e network*    |  |*Economia e i suoi principi*|
-|--------------------------------|--|--------------------------------|--|-------------------------------|
-| Grafene OS e Pixel Phone  |  | OpenWrt                   |  | Storia dei crack          |
-| Calix OS                  |  | DNS                       |  | Libri                     |
-| Linage OS                 |  | Router a cascata          |  | Video                     |
-| Altri OS interessanti     |  | ----                      |  | Podcast                   |
-| MicroG                    |  | ----                      |  | Istruzione                |
-| ----                      |  | ----                      |  | Glossario                 |
+|---------------------------|--|---------------------------|--|----------------------------|
+| Grafene OS e Pixel Phone  |  | OpenWrt                   |  | Storia dei crack           |
+| Calix OS                  |  | DNS                       |  | Libri                      |
+| Linage OS                 |  | Router a cascata          |  | Video                      |
+| Altri OS interessanti     |  | ----                      |  | Podcast                    |
+| MicroG                    |  | ----                      |  | Istruzione                 |
+| ----                      |  | ----                      |  | Glossario                  |
 
 
 |[GrafeneOS](https://grapheneos.org/)|
