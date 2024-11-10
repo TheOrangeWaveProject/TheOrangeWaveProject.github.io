@@ -12,8 +12,7 @@ Il 2007 e soprattutto nel 2008 sono stati anni segnati da una profonda crisi fin
 
 Il mercato immobiliare cominciò a collassare e i capitali investiti vennero presto a svalutarsi. La Lehman Brothers fu la banca più grande USA a fallire in breve tempo.
 
-Questo documento sepur tecnico, rappresenta la versione più basica dell'intelaiatura del sistema Bitcoin essendone ancora oggi le sue fondamente. Vedremo capitolo per capitolo ogni sezione cercando di far emergere i significati più importanti e caratterizzanti del sistema Bitcoin portando alla luce tutta la genialità  racchiusa al suo interno.
-
+Questo documento seppur tecnico, rappresenta la versione più basica dell'intelaiatura del sistema Bitcoin essendone ancora oggi le sue fondamente.
 
 ## Bitcoin: un sistema di moneta elettronica peer-to-peer
 
