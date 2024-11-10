@@ -2,7 +2,7 @@
 
    *BASE*    | *INTERMEDIO*  |  *AVANZATO*
 -------------|---------------|---------------   
-Il Denaro: dalle origini ai giorni nostri | Il vademecum su Bitcoin | Mastering in Bitcoin
+Il Denaro: dalle origini ai giorni nostri *di Riccardo Siotto (Yes8)* | Il vademecum su Bitcoin | Mastering in Bitcoin
 *di Riccardo Siotto (Yes8)* | di Anil Patel tradotto da *Gutbrush e Alevand*| di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
 Cos'è il denaro, cos'è il bitcoin | The Internet of Money Volume 1 | Masterin in Lightning Network
 di *Claudio ferrari* | di *Andreas M. Antonopoulos* | di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
