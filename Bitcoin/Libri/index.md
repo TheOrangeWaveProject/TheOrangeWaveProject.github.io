@@ -2,26 +2,20 @@
 
    *BASE*    | *INTERMEDIO*  |  *AVANZATO*
 -------------|---------------|---------------   
-1 Il Denaro: dalle origini ai giorni nostri *di Riccardo Siotto (Yes8)* | 1 Il vademecum su Bitcoin di Anil Patel tradotto da *Gutbrush e Alevand* | 1 Mastering in Bitcoin di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
-2 gg         | 2 kkkkkk      | 2 Masterin in Lightning Network di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
-
+Il Denaro: dalle origini ai giorni nostri | Il vademecum su Bitcoin | Mastering in Bitcoin
+*di Riccardo Siotto (Yes8)* | di Anil Patel tradotto da *Gutbrush e Alevand*| di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
+Cos'è il denaro, cos'è il bitcoin | The Internet of Money Volume 1 | Masterin in Lightning Network
+di *Claudio ferrari* | di *Andreas M. Antonopoulos* | di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
+a                    | The Internet of Money Volume 2 | b
+c                    | di *Andreas M. Antonopoulos*   | d
+e                    | The Internet of Money - Volume 3 | f
+g                    | di *Andreas M. Antonopoulos*     | h
+Mamma ho comprato Bitcoin | k | o
+di *Lorenzo Primiterra* | r | t 
 
 
 The sovereign Individual di .....
-Mastering in Bitcoin di Andreas M. Antonopoulos
-LIBRI DI ANDREAS M. ANTONOPOULOS
-Andreas M. Antonopoulos è uno dei divulgatori più acclamati nel panorama
-Bitcoin.
-Nato a Londra nel 1972, ma cresciuto in Grecia, Andreas sin da piccolo ha un forte passione per l’informatica che lo spinge a provare le più innovative tecnologie. 
-All’University College di Londra ottiene la laurea in Computer science and Data Communications, Networks and Distributed Systems.
-Nel 2012 Andreas rimane letteralmente folgorato da Bitcoin. Folgorazione che lo spinge a lasciare il suo lavoro di consulente di reti informatiche per dedicarsi completamente allo studio di Bitcoin e
-alla tecnlogia Blockchain. 
-Inizia così la sua carriera di divulgatore diventando uno dei più apprezzati e prestigiosi speaker nel mondo Bitcoin.
-I suoi speech sono stati raccolti in 3 volumi che vi proponiamo qui sotto. In questi 3 volumi Andreas va oltre alla spiegazione tecnica del funzionamento di Bitcoin, e ci apre la mente sulle implicazione
-sociali, filosofiche e storiche che questa nuova tecnologia ci sta portando.
-The Internet of Money Volume 1
-The Internet of Money Volume 2
-The Internet of Money - Volume 3
+
 Se dopo il terzo volume vi siete innamorati di Bitcoin e volete approfondire il lato tecnico, allora il buon Andreas ha un libro che fa per voi: Mastering Bitcoin 2nd Edition – Programming the Open Blockchain. Il libro analizza la parte tecnica di Bitcoin in tutte le sue sfaccettature: si parte spiegando cos’è Bitcoin e cos’è la Blockchain, come funziona il suo protocollo ed il meccanismo di
 consenso, cos’è un wallet, come avviene una transazione…il tutto correlato da estratti di codice e da formule matematiche. 
 Se vi interessa il lato tecnico questo è sicuramente il libro che fa per voi. 
