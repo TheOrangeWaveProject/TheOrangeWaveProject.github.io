@@ -14,7 +14,7 @@ Senza dover riscoprire il fuoco, attingendo dal molto materiale di buona qualit�
 |         *Bitcoin*         |  |    *Privacy & Sicurity*   |  |     *Linux e dintorni*     |
 |---------------------------|--|---------------------------|--|----------------------------|
 | [Whitepaper 📃](./Bitcoin/WP/)                |  | Chypher manifesto         |  | Storia e distro            |
-| Libri                     |  | Libri                     |  | Libri                      |
+| [Libri 📚](./Bitcoin/Libri/)                     |  | Libri                     |  | Libri                      |
 | Video                     |  | Video                     |  | Video                      |
 | Podcast                   |  | Podcast                   |  | Podcast                    |
 | Istruzione                |  | Istruzione                |  | Istruzione                 |
