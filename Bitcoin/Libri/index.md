@@ -1,18 +1,33 @@
 # RISORSE & LIBRI
 
 ## 📚 ELENCO DI LIBRI SUGGERITI 📚
+Saranno menzionati libri eventualmente acquistabili in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store:
 
-### Impariamo a far leggere di economia e Bitcoin anche i bambini e i nostri genitori o chi è proprio a digiuno con:
+***Ci sono altre criptovalute, ma non fateci nemmeno caso sono tutte scam (💩coin)***
 
-- [La moneta Bitcoin - La storia della città di
-  Bitville alla scoperta della buona Moneta](https://www.amazon.it/Moneta-Bitcoin-Storia-Bitville-Scoperta/dp/0578528444/ref=sr_1_3) aut. Michael Caras
-- [Il Denaro](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UZYTZP533TYY&dib=eyJ2IjoiMSJ9.QZw5AweagAzSJiTXX1GHIA.9oOqVTrYnWj8b-G5or05j8Ej9RqOQdqUtFCDZUAO2vA&dib_tag=se&keywords=il+denaro+yes8&qid=1715721210&sprefix=il+denaro+yes8%2Caps%2C158&sr=8-1)                                       aut. Riccardo Siotto, Yes 8
-- [Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757?pd_rd_w=5CxWd&content-id=amzn1.sym.25699d69-10bd-42dd-b332-df26ad3f11a8&pf_rd_p=25699d69-10bd-42dd-b332-df26ad3f11a8&pf_rd_r=4EVWF4R2X9DR7TP8Q2TG&pd_rd_wg=qx6HW&pd_rd_r=66053644-178b-4e8f-b4ab-a1987eaee0c3&pd_rd_i=B0932BFXQY&psc=1)                       aut. Lorenzo Primiterra
+- [Bitrefill](https://www.bitrefill.com/it/it/gift-cards/amazon_it-italy/)
+- [Coinsbee](https://www.coinsbee.com/it/gift-cards/e-commerce/amazon/)
+- [Cryptorefills](https://www.cryptorefills.com/it/italia/buoni_regalo/amazon.it)
+- [The Bitcoin Company - *solo su Amazon.com*](https://app.thebitcoincompany.com/giftcard/GiftCard_49d2dc07acd9)
 
-### Per far iniziare i "nocoiner e precoiner":
+- oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi
 
-- Bitcoin 199 domande                              aut. Alessio Barnini e Alessandro Aglietti
-- Domande e risposte su Bitcoin                    aut. David Coen
+### Impariamo a far leggere di economia e Bitcoin anche i nostri bambini e genitori o chi è proprio a digiuno:
+
+TITOLO | DESCRIZIONE | AUTORE
+-------|-------------|-------
+[La moneta Bitcoin - La storia della città di Bitville alla scoperta della buona Moneta](https://www.amazon.it/Moneta-Bitcoin-Storia-Bitville-Scoperta/dp/0578528444/ref=sr_1_3) | I bambini di Bitville si rendono conto di aver bisogno di uno strumento che li aiuti a commerciare gli uni con gli altri. Mentre esplorano diversi tipi di denaro, un misterioso ragazzo si trasferisce nella loro città e suggerisce una nuova idea... La Moneta Bitcoin è una storia per tutte le età, che aiuta a rispondere alla domanda: "Perché Bitcoin?" | *Michael Caras*
+[Il Denaro](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1) | Già dai 5 anni i bambini  interagiSCONO con il denaro, ma chi gli spega: Cosa è il denaro? Come è nato? Come è cambiato fino a oggi? Come viene creato e da chi? Cosa dà valore al denaro? Esiste qualcosa di più prezioso? Questo libro illustrato, in appena 5 minuti di lettura e in maniera divertente, prova a dare loro le risposte. | *Riccardo Siotto (Yes8)*
+[Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757) | Una guida a Bitcoin per quelle generazioni che non sono nate con un computer o con un cellulare in mano. Un manuale nato per spiegare un argomento complesso con parole semplici, parole di uso comune, che chiunque può capire. | *Lorenzo Primiterra*
+[Cos'è il denaro, cos'è il bitcoin](https://www.amazon.it/dp/B0CDBGM1L7) | Il libro analizza i temi dell’economia, della moneta e delle banche, usando la teoria Austriaca per esaminare la struttura finanziaria e monetaria dell’impero Romano ai tempi di Gesù, tracciando paralleli con le banche del 1800 e l’attuale sistema monetario. Si affronta l’erosione del valore del denaro, culminata con l’abbandono del Gold Standard nel 1971, e avverte sui rischi economici e le guerre come soluzioni ai debiti insostenibili. Sostiene che evitare di detenere i risparmi in monete FIAT e optare per Bitcoin, Oro o beni materiali, è cruciale. | *Claudio Ferrari*
+
+
+### Per far iniziare i "nocoiner e precoiner", ovvero chi ne ha solo sentito parlare (male) di Bitcoin:
+
+TITOLO | DESCRIZIONE | AUTORE
+-------|-------------|-------
+[Bitcoin 199 domande](https://www.amazon.it/dp/B07TXZP8GS) | Non si può rimanere fermi, non possiamo vedere il treno che passa, non è ammissibile essere parassiti di una tecnologia. È il momento di cominciare a capire come funziona la più grande rivoluzione dei pagamenti, perchè Bitcoin rappresenta quello che la società sta aspettando da sempre. Liberi dai vincoli, liberi dalle istituzioni, padroni di noi stessi. Per capire veramente come dei bit possano capovolgere il mondo dobbiamo compiere un percorso, partendo dalle basi. Siamo sicuri che con questo manuale avrai le risposte che cerchi, facendo avvicinare il neofita e incuriosendo il più esperto. | *Alessio Barnini e Alessandro Aglietti*
+[Domande e risposte su Bitcoin](https://www.amazon.it/dp/B07ZTYBWN6) | "Formulato in un agile formato Domanda&Risposta, questo libro è uno dei migliori esempi di contenuto educativo Bitcoin in lingua italiana che abbia letto finora." - Giacomo Zucco, founder BHB Network, co-founder Bcademy."|*David Coen*
 - Villaggio Bitcoin: L'alba di una nuova società
   basata su una moneta sana e onesta               aut. Valerio dalla Costa
 - 21 Lezioni: Cosa ho imparato nel cadere dentro
@@ -59,19 +74,14 @@ Per trovare podcast, newsletter, blog, giochi, app, lavori, e ulteriori risorse 
 
 
 
-
-   *BASE*    | *INTERMEDIO*  |  *AVANZATO*
--------------|---------------|---------------   
-Il Denaro: dalle origini ai giorni nostri *di Riccardo Siotto (Yes8)* | Il vademecum su Bitcoin | Mastering in Bitcoin
-*di Riccardo Siotto (Yes8)* | di Anil Patel tradotto da *Gutbrush e Alevand*| di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
-Cos'è il denaro, cos'è il bitcoin | The Internet of Money Volume 1 | Masterin in Lightning Network
+ Il vademecum su Bitcoin | Mastering in Bitcoin
+Anil Patel tradotto da *Gutbrush e Alevand*| di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
+The Internet of Money Volume 1 | Masterin in Lightning Network
 di *Claudio ferrari* | di *Andreas M. Antonopoulos* | di *Andreas M. Antonopoulos* tradotto da *Masutti Riccardo*
 a                    | The Internet of Money Volume 2 | b
 c                    | di *Andreas M. Antonopoulos*   | d
 e                    | The Internet of Money - Volume 3 | f
 g                    | di *Andreas M. Antonopoulos*     | h
-Mamma ho comprato Bitcoin | k | o
-di *Lorenzo Primiterra* | r | t 
 
 
 The sovereign Individual di .....
