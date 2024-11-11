@@ -1,4 +1,64 @@
-# 📚 ELENCO DI LIBRI SUGGERITI 📚
+# RISORSE & LIBRI
+
+## 📚 ELENCO DI LIBRI SUGGERITI 📚
+
+### Impariamo a far leggere di economia e Bitcoin anche i bambini e i nostri genitori o chi è proprio a digiuno con:
+
+- [La moneta Bitcoin - La storia della città di
+  Bitville alla scoperta della buona Moneta](https://www.amazon.it/Moneta-Bitcoin-Storia-Bitville-Scoperta/dp/0578528444/ref=sr_1_3) aut. Michael Caras
+- [Il Denaro](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UZYTZP533TYY&dib=eyJ2IjoiMSJ9.QZw5AweagAzSJiTXX1GHIA.9oOqVTrYnWj8b-G5or05j8Ej9RqOQdqUtFCDZUAO2vA&dib_tag=se&keywords=il+denaro+yes8&qid=1715721210&sprefix=il+denaro+yes8%2Caps%2C158&sr=8-1)                                       aut. Riccardo Siotto, Yes 8
+- [Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757?pd_rd_w=5CxWd&content-id=amzn1.sym.25699d69-10bd-42dd-b332-df26ad3f11a8&pf_rd_p=25699d69-10bd-42dd-b332-df26ad3f11a8&pf_rd_r=4EVWF4R2X9DR7TP8Q2TG&pd_rd_wg=qx6HW&pd_rd_r=66053644-178b-4e8f-b4ab-a1987eaee0c3&pd_rd_i=B0932BFXQY&psc=1)                       aut. Lorenzo Primiterra
+
+### Per far iniziare i "nocoiner e precoiner":
+
+- Bitcoin 199 domande                              aut. Alessio Barnini e Alessandro Aglietti
+- Domande e risposte su Bitcoin                    aut. David Coen
+- Villaggio Bitcoin: L'alba di una nuova società
+  basata su una moneta sana e onesta               aut. Valerio dalla Costa
+- 21 Lezioni: Cosa ho imparato nel cadere dentro
+  la tana del Bianconiglio                         aut. Der Gigi, Trad. Davide Milani
+- Bitcoin per tutti                                aut. Gianmaria Allisiardi
+
+### Studi un pò più avanzati:
+
+- Bitcoin Standard                                 aut. Saifedean Ammous Trad. Vari
+- Fiat Standard                                    aut. Saifedean Ammous Trad. Vari
+- Dal Sesterzo al Bitcoin                          aut. Angelo Miglietta
+- Bitcoin dalla teoria alla pratica                aut. Alessio Barnini e Alessandro Aglietti
+- Bitcoin in action                                aut. Alessio Barnini e Alessandro Aglietti
+- Criptoeconomia: Principi Fondamentali di Bitcoin aut. Eric Vaskuil Trad. Parsevalbtc
+- Bitcoin sovranità monetaria attraverso la
+  matematica                                       aut. Knut Svanholm Trad. Marco Seminari Rev. Serena Mir Liponi
+- Mastering Bitcoin                                aut. Andreas M.Antonopoulos Trad. Riccardo Masutti
+- Mastering Lightning Network                      aut. Andreas M.Antonopoulos Trad. Riccardo Masutti
+- The Internet of Money Vol. I - II - III 🇬🇧       aut. Andreas M.Antonopoulos
+- The little Bitcoin Book 🇬🇧                       aut. Vari 
+
+  
+## RISORSE con molto materiale idoneo per approfondire
+
+- Sito con domande e risposte, tutorial articoli
+  tradotti in italiano                               https://bitcoin-translate.it
+- Serena Mir in italiano:                            https://github.com/mirserena/risorsebitcoin/blob/main/README.md
+- Collezione migliori risorse su BTC                 https://ventuno.space/
+- Aggregatore risorse by Pindol su medium:           https://pindol.medium.com/premessa-1e5254a52475
+- Villaggio Bitcoin negozio fisico, blog e notizie   https://www.villaggiobitcoin.it/
+- Blog di articoli interessanti                      https://bitcoinforfreedom.xyz/
+- Mappa dei negozi e dei servizi che accettano BTC   https://btcmap.org/map
+- Per accettare pagamenti Bitcoin con 0% di
+  commissioni e nessuna terza parte                  https://btcpayserver.org/it_IT/
+- Risorse di BTC in English                          https://thebitcoinrabbithole.com/library/books/
+  
+Per trovare podcast, newsletter, blog, giochi, app, lavori, e ulteriori risorse clicca
+[_qui_](https://github.com/Coindipity/risorse_link/edit/main/README.md)
+
+
+
+
+
+
+
+
 
    *BASE*    | *INTERMEDIO*  |  *AVANZATO*
 -------------|---------------|---------------   
