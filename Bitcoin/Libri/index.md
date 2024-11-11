@@ -1,16 +1,13 @@
 # RISORSE & LIBRI
 
 ## 📚 ELENCO DI LIBRI SUGGERITI 📚
-Saranno menzionati libri eventualmente acquistabili in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store:
+Saranno menzionati libri/PDF qualcuno gratuito e altri acquistabili in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store:
 
 ***Ci sono altre criptovalute, ma non fateci nemmeno caso sono tutte scam (💩coin)***
 
-- [Bitrefill](https://www.bitrefill.com/it/it/gift-cards/amazon_it-italy/)
-- [Coinsbee](https://www.coinsbee.com/it/gift-cards/e-commerce/amazon/)
-- [Cryptorefills](https://www.cryptorefills.com/it/italia/buoni_regalo/amazon.it)
-- [The Bitcoin Company - *solo su Amazon.com*](https://app.thebitcoincompany.com/giftcard/GiftCard_49d2dc07acd9)
+[Bitrefill](https://www.bitrefill.com/it/it/gift-cards/amazon_it-italy/) - [Coinsbee](https://www.coinsbee.com/it/gift-cards/e-commerce/amazon/) - [Cryptorefills](https://www.cryptorefills.com/it/italia/buoni_regalo/amazon.it) - [The Bitcoin Company - *solo su Amazon.com*](https://app.thebitcoincompany.com/giftcard/GiftCard_49d2dc07acd9)
 
-- oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi
+> oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi o fatevelo prestare 
 
 ### Impariamo a far leggere di economia e Bitcoin anche i nostri bambini e genitori o chi è proprio a digiuno:
 
@@ -28,13 +25,12 @@ TITOLO | DESCRIZIONE | AUTORE
 -------|-------------|-------
 [Bitcoin 199 domande](https://www.amazon.it/dp/B07TXZP8GS) | Non si può rimanere fermi, non possiamo vedere il treno che passa, non è ammissibile essere parassiti di una tecnologia. È il momento di cominciare a capire come funziona la più grande rivoluzione dei pagamenti, perchè Bitcoin rappresenta quello che la società sta aspettando da sempre. Liberi dai vincoli, liberi dalle istituzioni, padroni di noi stessi. Per capire veramente come dei bit possano capovolgere il mondo dobbiamo compiere un percorso, partendo dalle basi. Siamo sicuri che con questo manuale avrai le risposte che cerchi, facendo avvicinare il neofita e incuriosendo il più esperto. | *Alessio Barnini e Alessandro Aglietti*
 [Domande e risposte su Bitcoin](https://www.amazon.it/dp/B07ZTYBWN6) | "Formulato in un agile formato Domanda&Risposta, questo libro è uno dei migliori esempi di contenuto educativo Bitcoin in lingua italiana che abbia letto finora." - Giacomo Zucco, founder BHB Network, co-founder Bcademy."|*David Coen*
-- Villaggio Bitcoin: L'alba di una nuova società
-  basata su una moneta sana e onesta               aut. Valerio dalla Costa
-- 21 Lezioni: Cosa ho imparato nel cadere dentro
-  la tana del Bianconiglio                         aut. Der Gigi, Trad. Davide Milani
-- Bitcoin per tutti                                aut. Gianmaria Allisiardi
+[Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta](https://www.amazon.it/dp/B0B6XQ41LB) | QUELLA CHE SI STA AFFACCIANDO AL MONDO IN QUESTI ANNI NON E' UNA TECNOLOGIA COME LE ALTRE. Ci troviamo di fronte ad una creatura che è al tempo stesso una moneta elettronica, un network e un protocollo informatico, ed ha la pretesa concreta di cambiare profondamente le nostre abitudini.|*Valerio dalla Costa*
+[21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio](https://www.amazon.it/dp/B09W43BXD3)|Cadere dentro alla tana del Bianconiglio di Bitcoin è un’esperienza strana. Come molti altri, sento di aver imparato di più negli ultimi due anni studiando Bitcoin di quanto non abbia imparato nel corso di due decenni di educazione scolastica.|*Der Gigi, Trad. Davide Milani*
+[Bitcoin per tutti - ***PDF gratuito***](https://www.bitcoinpertutti.org/)|Credo che *Bitcoin per tutti* sia veramente per tutti, chiunque con un po' di calma e buona volontà può capire con un buon livello di approfondimento il funzionamento della blockchain, ed addentrarsi con più consapevolezza nel fantastico mondo dell'unica vera crittovaluta.|*Gianmaria Allisiardi*
 
 ### Studi un pò più avanzati:
+Credo che "Bitcoin per tutti" sia veramente per tutti, chiunque con un po' di calma e buona volontà può capire con un buon livello di approfondimento il funzionamento della blockchain, ed addentrarsi con più consapevolezza nel fantastico mondo delle crittovalute.
 
 - Bitcoin Standard                                 aut. Saifedean Ammous Trad. Vari
 - Fiat Standard                                    aut. Saifedean Ammous Trad. Vari
