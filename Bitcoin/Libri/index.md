@@ -1,11 +1,9 @@
-# RISORSE & LIBRI
+# LIBRI & RISORSE
 
-## 📚 ELENCO DI LIBRI SUGGERITI 📚
-Saranno menzionati libri/PDF qualcuno gratuito e altri acquistabili in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store:
+## 📚 ELENCO DI LIBRI SUGGERITI 📚  per vari livelli [Neofiti]() - Base - Intermedio - Avanzati
+Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili anche in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store: ***ci sono altre criptovalute, ma non fateci nemmeno caso sono tutte scam (💩coin)***
 
-***Ci sono altre criptovalute, ma non fateci nemmeno caso sono tutte scam (💩coin)***
-
-[Bitrefill](https://www.bitrefill.com/it/it/gift-cards/amazon_it-italy/) - [Coinsbee](https://www.coinsbee.com/it/gift-cards/e-commerce/amazon/) - [Cryptorefills](https://www.cryptorefills.com/it/italia/buoni_regalo/amazon.it) - [The Bitcoin Company - *solo su Amazon.com*](https://app.thebitcoincompany.com/giftcard/GiftCard_49d2dc07acd9)
+[Bitrefill](https://www.bitrefill.com/it/it/gift-cards/amazon_it-italy/) --- [Coinsbee](https://www.coinsbee.com/it/gift-cards/e-commerce/amazon/) --- [Cryptorefills](https://www.cryptorefills.com/it/italia/buoni_regalo/amazon.it) --- [The Bitcoin Company - *solo su Amazon.com*](https://app.thebitcoincompany.com/giftcard/GiftCard_49d2dc07acd9)
 
 > oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi o fatevelo prestare 
 
@@ -23,16 +21,25 @@ TITOLO | DESCRIZIONE | AUTORE
 
 TITOLO | DESCRIZIONE | AUTORE
 -------|-------------|-------
-[Bitcoin 199 domande](https://www.amazon.it/dp/B07TXZP8GS) | Non si può rimanere fermi, non possiamo vedere il treno che passa, non è ammissibile essere parassiti di una tecnologia. È il momento di cominciare a capire come funziona la più grande rivoluzione dei pagamenti, perchè Bitcoin rappresenta quello che la società sta aspettando da sempre. Liberi dai vincoli, liberi dalle istituzioni, padroni di noi stessi. Per capire veramente come dei bit possano capovolgere il mondo dobbiamo compiere un percorso, partendo dalle basi. Siamo sicuri che con questo manuale avrai le risposte che cerchi, facendo avvicinare il neofita e incuriosendo il più esperto. | *Alessio Barnini e Alessandro Aglietti*
+[Bitcoin 199 domande](https://www.amazon.it/dp/B07TXZP8GS) | Non si può rimanere fermi, non possiamo vedere il treno che passa, non è ammissibile essere parassiti di una tecnologia. È il momento di cominciare a capire come funziona la più grande rivoluzione dei pagamenti, perchè Bitcoin rappresenta quello che la società sta aspettando da sempre. Liberi dai vincoli, liberi dalle istituzioni, padroni di noi stessi. Per capire veramente come dei bit possano capovolgere il mondo dobbiamo compiere un percorso, partendo dalle basi. Siamo sicuri che con questo manuale avrai le risposte che cerchi, facendo avvicinare il neofita e incuriosendo il più esperto. |*Alessio Barnini e Alessandro Aglietti*
 [Domande e risposte su Bitcoin](https://www.amazon.it/dp/B07ZTYBWN6) | "Formulato in un agile formato Domanda&Risposta, questo libro è uno dei migliori esempi di contenuto educativo Bitcoin in lingua italiana che abbia letto finora." - Giacomo Zucco, founder BHB Network, co-founder Bcademy."|*David Coen*
 [Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta](https://www.amazon.it/dp/B0B6XQ41LB) | QUELLA CHE SI STA AFFACCIANDO AL MONDO IN QUESTI ANNI NON E' UNA TECNOLOGIA COME LE ALTRE. Ci troviamo di fronte ad una creatura che è al tempo stesso una moneta elettronica, un network e un protocollo informatico, ed ha la pretesa concreta di cambiare profondamente le nostre abitudini.|*Valerio dalla Costa*
+[21 Pensieri dal Villaggio Bitcoin: Osservare il mondo alla rovescia attraverso una moneta sana e onesta](https://www.amazon.it/dp/B0CH25H14X)|Analisi intransigenti di dinamiche economiche e sociali, critiche pungenti all’attuale sistema monetario, considerazioni irriverenti di natura politica e filosofica, previsioni futuristiche, scoperte e conclusioni spesso controintuitive, ma sempre condite da un’immancabile punta di ironia: 21 Pensieri dal Villaggio Bitcoin è il risultato di interminabili riflessioni e notti insonni di chi, da anni, cerca di orientarsi senza pace all’interno della tana del Bianconiglio di Bitcoin.|*Valerio dalla Costa*
 [21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio](https://www.amazon.it/dp/B09W43BXD3)|Cadere dentro alla tana del Bianconiglio di Bitcoin è un’esperienza strana. Come molti altri, sento di aver imparato di più negli ultimi due anni studiando Bitcoin di quanto non abbia imparato nel corso di due decenni di educazione scolastica.|*Der Gigi, Trad. Davide Milani*
+[Il Vademecum Bitcoin: Concetti Fondamentali di Economia, Tecnologia e Psicologia](https://www.amazon.it/dp/B0CJKV58Y1)|IL VADEMECUM BITCOIN è una collezione degli schemi, dei modelli mentali e delle euristiche più utili a comprendere il denaro nell’era digitale.Scritto per un pubblico non tecnico e ricco di illustrazioni stimolanti, questo libro è una risosa preziosa sia per novizi, sia per esperti. Pensa a questo vademecum come un fedele compagno nel tuo viaggio all’interno della “tana del bianconiglio”.|*Anil Patel trad. Guybrush e Alevand*
 [Bitcoin per tutti - ***PDF gratuito***](https://www.bitcoinpertutti.org/)|Credo che *Bitcoin per tutti* sia veramente per tutti, chiunque con un po' di calma e buona volontà può capire con un buon livello di approfondimento il funzionamento della blockchain, ed addentrarsi con più consapevolezza nel fantastico mondo dell'unica vera crittovaluta.|*Gianmaria Allisiardi*
 
-### Studi un pò più avanzati:
-Credo che "Bitcoin per tutti" sia veramente per tutti, chiunque con un po' di calma e buona volontà può capire con un buon livello di approfondimento il funzionamento della blockchain, ed addentrarsi con più consapevolezza nel fantastico mondo delle crittovalute.
+### Studi intermedi, se fino ad ora tri sei incuriosito qui puoi avere materiale per approfondire:
 
-- Bitcoin Standard                                 aut. Saifedean Ammous Trad. Vari
+TITOLO | DESCRIZIONE | AUTORE
+-------|-------------|-------
+[Bitcoin: Dalla teoria alla pratica](https://www.amazon.it/gp/product/B07SNNNL2P)|Bitcoin. Denaro dei nerds? Oro digitale? Forse, sicuramente rivoluzione sociale. Questo il pensiero dei due autori dopo aver messo in pratica, con esempi reali e concreti, il protocollo Bitcoin. Il loro mantra è: "Per comprendere profondamente una qualsiasi tecnologia dobbiamo toccarla con mano, vedendo con i nostri occhi i risultati che possiamo ottenere". Non si sono accontentati di sapere superficialmente che cosa è una transazione e come viene identificata nella blockchain, oppure perché viene utilizzato il merkle tree, o ancora come sono gestite le chiavi private nel wallet deterministico.|*Alessio Barnini e Alessandro Aglietti*
+
+### Non ne avete ancora abastanza qui troverete qualcosa di ancora più avanzato in diverse direzioni, non solo tecniche:
+
+TITOLO | DESCRIZIONE | AUTORE
+-------|-------------|-------
+[Bitcoin Standard](https://shop.usemlab.com/home/85-the-bitcoin-standard-edizione-italiana.html)|La guida essenziale su storia, proprietà, usi e prospettive future di Bitcoin. Bitcoin non ha proprietari né autorità costituite a determinarne arbitrariamente il destino. Appartiene alla gente, ai suoi utenti. E ora ha una storia di diversi anni, abbastanza per essere un animale a sé stante. La sua semplice esistenza è una polizza assicurativa in grado di ricordare ai governi che l’oggetto ultimo di controllo dei gruppi di potere, ovvero la valuta, non è più un loro monopolio. Questo dà a noi, la gente, una polizza assicurativa contro un futuro orwelliano "Nassim Taleb"|Saifedean Ammous Trad. Vari
 - Fiat Standard                                    aut. Saifedean Ammous Trad. Vari
 - Dal Sesterzo al Bitcoin                          aut. Angelo Miglietta
 - Bitcoin dalla teoria alla pratica                aut. Alessio Barnini e Alessandro Aglietti
