@@ -27,7 +27,7 @@ Lo scopo di questo progetto è divulgare quanto più possibile strumenti, softwa
 Cercheremo di raggruppare, condividere, scovare tutto il materiale più idoneo per lo scopo, senza farvi perdere tempo con cose poco utili o forvianti, **almeno a nostro parere…** 😅
 (_chiunque, con un accont GitHub, potrà inviare segnalazoni, migliorie, errori, curiosità, approfondimenti per rendere questo spazio fruibile in maniera ottimale per tutti_)
 
-### COME STUDIARE QUINDI BITCOIN UTILIZZANDO LINUX IN PRIVACY E SICUREZZA?
+### Come Studiare BITCOIN Utilizzando sistemi LINUX in Sicurezza proteggendo anche la nostra Privacy?
 Anche voi vi sarete domandeti dove informarsi correttamente su questi temi che oramai sempre più intrinsecamente si connettono in un unico workflow.
 Dovremmo imparare a padroneggiarli almeno in parte per garantirci la possibilità di avere il controllo dei nostri dati, valori e strumenti.
 Senza dover riscoprire il fuoco 🔥 , attingendo dal molto materiale di buona qualità presente nel web (sia in 🇮🇹 che in 🇬🇧/🇺🇸*), proponendo quasi un percorso con diverse tappe per costruire una struttura di informazioni che vi faranno da base solida per il futuro che verrà.
@@ -35,7 +35,7 @@ Nel mondo arancione di **Bitcoin** si usa spesso la frase _"Scendere sempre più
 
 *_non spaventatevi anche se non conoscete bene questa lingua, oramai ci somno sempre più strumenti per la traduzione istantanea sia video che testuale._
 
-## ⚠️ Stiamo lavorando per voi (l'allestimento di fonti e informazioni si sta popolando...) 🛠️
+## ⚠️ Stiamo lavorando per voi (l'allestimento di fonti e info si sta popolando...) 🛠️
 Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di fare il primo passo in uno degli argomenti da Voi desiderati.
  
 
