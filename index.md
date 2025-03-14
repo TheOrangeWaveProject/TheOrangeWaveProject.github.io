@@ -16,7 +16,7 @@ Qui potrete trovare molto di quello che riteniamo fondamentale condividere per f
 
 Se vi interassa conoscere un pò più a fondo questa linea di pensiero, scendete sempre più in profondità nelle pagine qui di seguito, aggiornate con nuovo materiale disponibile e fruibile in maniera gratuita.
 
-Abbiamo scelto l'immagine di un onda riferendoci alla xilografia iconica [_"La grande onda di Kanagawa"_](https://it.wikipedia.org/wiki/La_grande_onda_di_Kanagawa) del maestro giapponese _Katsushika Hokusai_ in quanto esprime la forza del mare impetuoso in contrasto con la forza del magma ormai sopito all'interno del Monte Fuji, come similitudine alla forza delle persone unite dalla propria volontà in contrapposizione alla forza di vecchie lobby armate.  
+Abbiamo scelto l'immagine di un onda riferendoci alla xilografia iconica [_"La grande onda di Kanagawa"_](https://it.wikipedia.org/wiki/La_grande_onda_di_Kanagawa) del maestro giapponese _Katsushika Hokusai_ in quanto esprime la forza del mare impetuoso in contrasto con la forza del magma ormai sopito all'interno del Monte Fuji e in mezzo alcune imbarcazioni di uomini in balia degli eventi, come similitudine alla forza degli spiriti liberi unite dalla propria volontà in contrapposizione alla forza di vecchie lobby armate fra le quali dovremmo scegliere.  
 
 ## Strumenti per la sovranità economica e digitale.
 
