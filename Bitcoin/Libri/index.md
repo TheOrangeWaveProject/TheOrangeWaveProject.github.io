@@ -8,10 +8,14 @@ Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, a
 > oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi o fatevelo prestare 
 
 ### Impariamo a far leggere di economia e Bitcoin anche i nostri bambini e genitori o chi è proprio a digiuno:
+###### (_per aprire la singola scheda, cliccate sul titolo_)
 
+- [La moneta Bitcoin - La storia della città di Bitville](https://github.com/TheOrangeWaveProject/TheOrangeWaveProject.github.io/Bitcoin/Libri/N01/index.md) di *Michael Caras*
+-
+
+  
 TITOLO | DESCRIZIONE | AUTORE
 -------|-------------|-------
-[La moneta Bitcoin - La storia della città di Bitville alla scoperta della buona Moneta](https://www.amazon.it/Moneta-Bitcoin-Storia-Bitville-Scoperta/dp/0578528444/ref=sr_1_3) | I bambini di Bitville si rendono conto di aver bisogno di uno strumento che li aiuti a commerciare gli uni con gli altri. Mentre esplorano diversi tipi di denaro, un misterioso ragazzo si trasferisce nella loro città e suggerisce una nuova idea... La Moneta Bitcoin è una storia per tutte le età, che aiuta a rispondere alla domanda: "Perché Bitcoin?" | *Michael Caras*
 [Il Denaro](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1) | Già dai 5 anni i bambini  interagiSCONO con il denaro, ma chi gli spega: Cosa è il denaro? Come è nato? Come è cambiato fino a oggi? Come viene creato e da chi? Cosa dà valore al denaro? Esiste qualcosa di più prezioso? Questo libro illustrato, in appena 5 minuti di lettura e in maniera divertente, prova a dare loro le risposte. | *Riccardo Siotto (Yes8)*
 [Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757) | Una guida a Bitcoin per quelle generazioni che non sono nate con un computer o con un cellulare in mano. Un manuale nato per spiegare un argomento complesso con parole semplici, parole di uso comune, che chiunque può capire. | *Lorenzo Primiterra*
 [Cos'è il denaro, cos'è il bitcoin](https://www.amazon.it/dp/B0CDBGM1L7) | Il libro analizza i temi dell’economia, della moneta e delle banche, usando la teoria Austriaca per esaminare la struttura finanziaria e monetaria dell’impero Romano ai tempi di Gesù, tracciando paralleli con le banche del 1800 e l’attuale sistema monetario. Si affronta l’erosione del valore del denaro, culminata con l’abbandono del Gold Standard nel 1971, e avverte sui rischi economici e le guerre come soluzioni ai debiti insostenibili. Sostiene che evitare di detenere i risparmi in monete FIAT e optare per Bitcoin, Oro o beni materiali, è cruciale. | *Claudio Ferrari*
