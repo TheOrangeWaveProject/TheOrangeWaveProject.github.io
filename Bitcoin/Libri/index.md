@@ -10,7 +10,7 @@ Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, a
 ### Impariamo a far leggere di economia e Bitcoin anche i nostri bambini e genitori o chi è proprio a digiuno:
 ###### (_per aprire la singola scheda, cliccate sul titolo_)
 
-- [_La moneta Bitcoin - La storia della città di Bitville_](./N01) di Michael Caras
+- [_La moneta Bitcoin - La storia della città di Bitville_](./N01/index.md) di Michael Caras
 -
 
   
