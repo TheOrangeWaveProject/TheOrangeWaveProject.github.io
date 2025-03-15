@@ -2,7 +2,7 @@
 
 ## Motivazioni e scopi di questo progetto dal 🧡 arancione
 
-Siamo uno sparuto gruppo di ricercatori di libertà e autonomia all'interno di questo ~Grande Fratello~ mondo 🌍.
+Siamo uno sparuto gruppo di ricercatori di libertà e autonomia all'interno di questo folle mondo 🌍.
 Cerchiamo ogni giorno di farlo tramite:
 - la ricerca di soluzioni e programmi utili;
 - la scoperta di codice informatico libero e open-source;
