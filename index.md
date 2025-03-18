@@ -38,6 +38,7 @@ Nel mondo arancione di **Bitcoin** si usa spesso la frase _"Scendere sempre più
 ## ⚠️ Stiamo lavorando per voi (l'allestimento di fonti e info si sta popolando...) 🛠️
 Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di fare il primo passo in uno degli argomenti da Voi desiderati.
  
+#### TABELLA
 
 |*Bitcoin*                            |*Privacy & Sicurity*       |     *Linux e dintorni*     |
 |-------------------------------------|---------------------------|----------------------------|
@@ -47,7 +48,7 @@ Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di
 | Podcast                             | Podcast                   | Podcast                    |
 | Istruzione                          | Istruzione                | Istruzione                 |
 | Glossario                           | Glossario                 | Glossario                  |
-|=====================================| ==========================| ============================|
+|=====================================| ==========================| ===========================|
 | Come installare un nodo             | TOR - VPN - Tails         | Come installare una distro |
 | Wallet                              | Browser e plug-in         | Comandi Base               |
 | Utilità                             | PGP / GPG e alias mail    | Migliori apps              |
@@ -57,15 +58,16 @@ Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di
 
 |*Degoogolizzazione*                  | *Router e network*        | *Economia e i suoi principi*|
 |-------------------------------------|---------------------------| ----------------------------|
-| Grafene OS e Pixel Phone            | OpenWrt                   | Storia dei crack           |
-| Calix OS                            | DNS                       | Libri                      |
-| Linage OS                           | Router a cascata          | Video                      |
-| Altri OS interessanti               | ----                      | Podcast                    |
-| MicroG                              | ----                      | Istruzione                 |
-| -----                               | ----                      | Glossario                  |
-|=====================================| ==========================| ===========================|
+| Grafene OS e Pixel Phone            | OpenWrt                   | Storia dei crack            |
+| Calix OS                            | DNS                       | Libri                       |
+| Linage OS                           | Router a cascata          | Video                       |
+| Altri OS interessanti               | ----                      | Podcast                     |
+| MicroG                              | ----                      | Istruzione                  |
+| -----                               | ----                      | Glossario                   |
+|=====================================| ==========================| ============================|
 
 
 
 |[GrafeneOS](https://grapheneos.org/)|
+i libri dei gemelli Tattle per imparare l'economia
 
