@@ -8,10 +8,10 @@ Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, a
 > oppure provate a comprarlo usato nel gruppo Telegram [Book4sats](https://t.me/book4sat) in satoshi o fatevelo prestare 
 
 ### Impariamo a far leggere di economia e Bitcoin anche i nostri bambini e genitori o chi è proprio a digiuno:
-###### (_per aprire la singola scheda, cliccate sul titolo_)
+###### (_per aprire la singola scheda, cliccate sul titolo qui sotto e poi ancora sul titolo succesivo per aprire il sito d'acquisto_)
 
 - [_La moneta Bitcoin - La storia della città di Bitville_](./N01/index.md) di Michael Caras
--
+- 
 
   
 TITOLO | DESCRIZIONE | AUTORE
