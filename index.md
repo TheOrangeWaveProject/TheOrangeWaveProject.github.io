@@ -9,7 +9,7 @@ Cerchiamo ogni giorno di farlo tramite:
 - lo scambio di informazioni utili trovate qua e la;
 - la condivisione di tutto quello che ci sembra più idoneo a salvaguardare il _Nostro pensiero libero_.
 
-Qui potrete trovare molto di quello che riteniamo fondamentale condividere per formare una pensiero libero nella difesa della _Nostra Sovranità_ (autonomia tout-court):
+[Qui](https://github.com/TheOrangeWaveProject/TheOrangeWaveProject.github.io/blob/main/index.md#tabella) potrete trovare molto di quello che riteniamo fondamentale condividere per formare una pensiero libero nella difesa della _Nostra Sovranità_ (autonomia tout-court):
 
 - `digitale` nell'utilizzo di software libero per la salvagaurdia nel mondo digitale in qui ormai siamo immersi, cercando di eviatre il controllo da terze parti;
 - `economica` nell'utilizzo di una moneta sana, definita nella sua disponibilità, incensurabile, decentrata tendente al distribuito, inarrestabile, inconfiscabile, pseudonima.
