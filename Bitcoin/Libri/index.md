@@ -15,13 +15,6 @@ Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, a
 - [_Mamma ho comprato Bitcoin_](./N03/index.md) di Lorenzo Primiterra
 - [_Cos'è il denaro, cos'è il bitcoin_](./N04/index.md) di Claudio Ferrari
 
-  
-TITOLO | DESCRIZIONE | AUTORE
--------|-------------|-------
-[Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757) | Una guida a Bitcoin per quelle generazioni che non sono nate con un computer o con un cellulare in mano. Un manuale nato per spiegare un argomento complesso con parole semplici, parole di uso comune, che chiunque può capire. | *Lorenzo Primiterra*
-[Cos'è il denaro, cos'è il bitcoin](https://www.amazon.it/dp/B0CDBGM1L7) | Il libro analizza i temi dell’economia, della moneta e delle banche, usando la teoria Austriaca per esaminare la struttura finanziaria e monetaria dell’impero Romano ai tempi di Gesù, tracciando paralleli con le banche del 1800 e l’attuale sistema monetario. Si affronta l’erosione del valore del denaro, culminata con l’abbandono del Gold Standard nel 1971, e avverte sui rischi economici e le guerre come soluzioni ai debiti insostenibili. Sostiene che evitare di detenere i risparmi in monete FIAT e optare per Bitcoin, Oro o beni materiali, è cruciale. | *Claudio Ferrari*
-
-
 ### Per far iniziare i "nocoiner e precoiner", ovvero chi ne ha solo sentito parlare (male) di Bitcoin:
 
 TITOLO | DESCRIZIONE | AUTORE
