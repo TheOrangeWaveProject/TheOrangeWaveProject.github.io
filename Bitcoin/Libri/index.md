@@ -1,4 +1,4 @@
-# LIBRI & RISORSE
+# LIBRI su Bitcoin
 
 ## 📚 ELENCO DI LIBRI SUGGERITI 📚  per vari livelli [Neofiti](./index.md#impariamo-a-far-leggere-di-economia-e-bitcoin-anche-i-nostri-bambini-e-genitori-o-chi-%C3%A8-proprio-a-digiuno) - [Base](./index.md#per-far-iniziare-i-nocoiner-e-precoiner-ovvero-chi-ne-ha-solo-sentito-parlare-male-di-bitcoin) - [Intermedio](./index.md#studi-intermedi-se-fino-ad-ora-tri-sei-incuriosito-qui-puoi-avere-materiale-per-approfondire) - [Avanzato](./index.md#non-ne-avete-ancora-abastanza-qui-troverete-qualcosa-di-ancora-pi%C3%B9-avanzato-in-diverse-direzioni-non-solo-tecniche)
 Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, anche in bitcoin su Amazon tramite alcune carte regalo prepagate presenti nei seguenti store: ***ci sono altre criptovalute, ma non fateci nemmeno caso sono tutte scam (💩coin)***
@@ -11,7 +11,9 @@ Saranno menzionati libri/PDF, qualcuno gratuito, e altri acquistabili via web, a
 ###### (_per aprire la singola scheda, cliccate sul titolo qui sotto e poi ancora sul titolo succesivo per aprire il sito d'acquisto_)
 
 - [_La moneta Bitcoin - La storia della città di Bitville_](./N01/index.md) di Michael Caras
-- 
+- [_Il Denaro_](./N02/index.md) di Riccardo Siotto (Yes8)
+- [_Mamma ho comprato Bitcoin_](./N03/index.md) di Lorenzo Primiterra
+- [_Cos'è il denaro, cos'è il bitcoin_](./N04/index.md) di Claudio Ferrari
 
   
 TITOLO | DESCRIZIONE | AUTORE
