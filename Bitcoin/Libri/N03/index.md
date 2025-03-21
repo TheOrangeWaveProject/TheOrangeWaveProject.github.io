@@ -1,6 +1,5 @@
-| TITOLO          | [Il Denaro](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1) |
+| TITOLO          | [Mamma ho comprato Bitcoin](https://www.amazon.it/Mamma-comprato-Bitcoin-semplice-completo/dp/B0932BFXQY/ref=pd_bxgy_thbs_d_sccl_1/257-0701056-4893757) |
 |:---------------:|:-------------:|
-| **DESCRIZIONE** | Già dai 5 anni i bambini  interagiSCONO con il denaro, ma chi gli spega: Cosa è il denaro? Come è nato? Come è cambiato fino a oggi? Come viene creato e da chi? Cosa dà valore al denaro? Esiste qualcosa di più prezioso? Questo libro illustrato, in appena 5 minuti di lettura e in maniera divertente, prova a dare loro le risposte. |
-| **AUTORE**      | _Riccardo Siotto (Yes8) - Illustratore e Tecno-Digital-mente dipendente - Contro ogni forma di censura_ | 
-| **COPERTINA**   | ![Il Denaro - clicca qui](./Il_Denaro.png) |
-
+| **DESCRIZIONE** | Una guida a Bitcoin per quelle generazioni che non sono nate con un computer o con un cellulare in mano. Un manuale nato per spiegare un argomento complesso con parole semplici, parole di uso comune, che chiunque può capire. |
+| **AUTORE**      | _Lorenzo Primiterra - _ | 
+| **COPERTINA**   | ![Mamma ho comprato Bitcoin - clicca qui](./Mamma_ho_comprato_Bitcoin.png) |
