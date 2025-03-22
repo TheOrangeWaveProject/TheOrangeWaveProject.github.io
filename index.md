@@ -63,7 +63,7 @@ Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di
 | Linage OS                           | Router a cascata          | Video                       |
 | Altri OS interessanti               | ----                      | Podcast                     |
 | MicroG                              | ----                      | Istruzione                  |
-| -----                               | ----                      | Glossario                   |
+| [Nostr](./Degoogolizzazione/Nostr/) | ----                      | Glossario                   |
 |=====================================| ==========================| ============================|
 
 
