@@ -40,34 +40,33 @@ Di seguito abbiamo sintetizzato una tabella di macroargomenti per permettervi di
  
 #### TABELLA
 
-|*Bitcoin*                            |*Privacy & Sicurity*       |     *Linux e dintorni*     |
-|-------------------------------------|---------------------------|----------------------------|
-| [Whitepaper 📃](./Bitcoin/WP/)      | Manifesti e ideali        | Storia e distro            |
-| [Libri 📚](./Bitcoin/Libri/)        | Libri                     | Libri                      |
-| Video                               | Video                     | Video                      |
-| Podcast                             | Podcast                   | Podcast                    |
-| Istruzione                          | Istruzione                | Istruzione                 |
-| Glossario                           | Glossario                 | Glossario                  |
-|=====================================| ==========================| ===========================|
-| Come installare un nodo             | TOR - VPN - Tails         | Come installare una distro |
-| Wallet                              | Browser e plug-in         | Comandi Base               |
-| Utilità                             | PGP / GPG e alias mail    | Migliori apps              |
-| Eventi                              | GitHub-GitLab-Codeberg    | Curiosità                  |
-| Curiosità                           | GitTea-Googs              | Markdown                   |
+|*Bitcoin*                                                     |*Privacy & Sicurity*       |     *Linux e dintorni*     |
+|--------------------------------------------------------------|---------------------------|----------------------------|
+| [Whitepaper 📃](./Bitcoin/WP/)                               | Manifesti e ideali        | Storia e distro            |
+| [Libri 📚](./Bitcoin/Libri/)                                 | Libri                     | Libri                      |
+| Video                                                        | Video                     | Video                      |
+| Podcast                                                      | Podcast                   | Podcast                    |
+| Istruzione                                                   | Istruzione                | Istruzione                 |
+| Glossario                                                    | Glossario                 | Glossario                  |
+|==============================================================| ==========================| ===========================|
+| Come installare un nodo                                      | TOR - VPN - Tails         | Come installare una distro |
+| Wallet                                                       | Browser e plug-in         | Comandi Base               |
+| Utilità                                                      | PGP / GPG e alias mail    | Migliori apps              |
+| Eventi                                                       | GitHub-GitLab-Codeberg    | Curiosità                  |
+| Curiosità                                                    | GitTea-Googs              | Markdown                   |
 
 
-|*Degoogolizzazione*                  | *Router e network*        | *Economia e i suoi principi*|
-|-------------------------------------|---------------------------| ----------------------------|
-| Grafene OS e Pixel Phone            | OpenWrt                   | Storia dei crack            |
-| Calix OS                            | DNS                       | Libri                       |
-| Linage OS                           | Router a cascata          | Video                       |
-| Altri OS interessanti               | ----                      | Podcast                     |
-| MicroG                              | ----                      | Istruzione                  |
-| [Nostr](./Degoogolizzazione/Nostr/) | ----                      | Glossario                   |
-|=====================================| ==========================| ============================|
+|*Degoogolizzazione*                                           | *Router e network*        | *Economia e i suoi principi*|
+|--------------------------------------------------------------|---------------------------| ----------------------------|
+| [Graphene OS e Pixel Phone](./Degoogolizzazione/GrapheneOS/) | OpenWrt                   | Storia dei crack            |
+| Calix OS                                                     | DNS                       | Libri                       |
+| Linage OS                                                    | Router a cascata          | Video                       |
+| Altri OS interessanti                                        | ----                      | Podcast                     |
+| MicroG                                                       | ----                      | Istruzione                  |
+| [Nostr](./Degoogolizzazione/Nostr/)                          | ----                      | Glossario                   |
+|==============================================================| ==========================| ============================|
 
 
 
-|[GrafeneOS](https://grapheneos.org/)|
 i libri dei gemelli Tattle per imparare l'economia
 
