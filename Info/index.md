@@ -1,4 +1,4 @@
-
+![Logo2r](https://github.com/TheOrangeWaveProject/TheOrangeWaveProject.github.io/tree/main/Info/Logo2r.png)
 
 # Qui troverete alcune info su questo progetto e sul percorso che vogliamo percorrere assieme a VOI
 
