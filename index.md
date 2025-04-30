@@ -7,7 +7,7 @@ Siamo uno sparuto gruppo di ricercatori di libertà e autonomia all'interno di q
 - la scoperta di codice informatico libero e open-source;
 - la condivisione di tutto quello che ci sembra più idoneo a salvaguardare il _Nostro pensiero libero_.
 
-[Qui](https://github.com/TheOrangeWaveProject/TheOrangeWaveProject.github.io/blob/main/index.md#tabella) potrete trovare molto di quello che riteniamo fondamentale condividere per formare una pensiero libero nella difesa della _Nostra Sovranità_:
+[Qui](.#tabella) potrete trovare molto di quello che riteniamo fondamentale condividere per formare una pensiero libero nella difesa della _Nostra Sovranità_:
 
 - `digitale` nell'utilizzo di software libero per la salvagaurdia nel mondo digitale in qui ormai siamo immersi, cercando di eviatre il controllo da terze parti;
 - `economica` nell'utilizzo di una moneta sana, definita nella sua disponibilità, incensurabile, decentrata tendente al distribuito, inarrestabile, inconfiscabile, pseudonima.
