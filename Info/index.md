@@ -1,3 +1,5 @@
+
+
 # Qui troverete alcune info su questo progetto e sul percorso che vogliamo percorrere assieme a VOI
 
 Abbiamo scelto l'immagine di un onda riferendoci alla xilografia iconica [_"La grande onda di Kanagawa"_](https://it.wikipedia.org/wiki/La_grande_onda_di_Kanagawa) del maestro giapponese _Katsushika Hokusai_ in quanto esprime la forza del mare impetuoso in contrasto con la forza del magma ormai sopito all'interno del Monte Fuji, tsunami scatenato dalla Luna col simbolo di Bitcoin, polo attrattivo e nuovo paradigma economico, culturale, sociale e tecnologico.  
